@@ -1,2 +1,4 @@
 plugins:
   - jekyll-relative-links
+
+theme: jekyll-theme-slate
