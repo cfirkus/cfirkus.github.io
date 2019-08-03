@@ -1,6 +1,8 @@
 Booksrule (nfbooksrule.com)
 ===========================
 
+**Updated Aug 3, 2019**
+
 ## Nora's Books to read
 
 - TODO
