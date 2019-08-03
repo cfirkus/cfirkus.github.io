@@ -1,5 +1,5 @@
-Booksrule (nfbooksrule.com)
-===========================
+Booksrule
+=========
 
 **Updated Aug 3, 2019**
 
