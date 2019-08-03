@@ -5,7 +5,7 @@ Booksrule
 
 ## Nora's Books to read
 
-- TODO
+- I'm working on this
 
 ## Nora's Books being worked on
 
